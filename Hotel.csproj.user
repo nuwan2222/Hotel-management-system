@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Properties\guests_room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Req_and_Feedbacks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Admin_change_password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Admin_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Admin_room_management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Admin_user_managementcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Admin_view_Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Edit_profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Facilities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\gallry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Guest%27s_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\guests_cancelbooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\guests_feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\guests_history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\guests_requests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
